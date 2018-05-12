@@ -1,0 +1,32 @@
+_repo: --ka_35301
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leśmian, Bolesław
+    aliases:
+    - Leshmiyan, Boleslav
+    - Lesmian, Boleslaw Stanislaw
+    - Lesman, B. (Bolesław)
+    - Leśmian, Bolesław Stanisław
+    birthdate: 1877
+    deathdate: 1937
+    gutenberg_agent_id: '37587'
+    url: http://www.gutenberg.org/2009/agents/37587
+    wikipedia: http://pl.wikipedia.org/wiki/Boles%C5%82aw_Le%C5%9Bmian
+description: ''
+gutenberg_issued: '2011-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35301'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Polish poetry'
+- !lcc 'PG'
+title: Łąka
+url: http://www.gutenberg.org/ebooks/35301
