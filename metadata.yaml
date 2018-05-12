@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37587
     wikipedia: http://pl.wikipedia.org/wiki/Boles%C5%82aw_Le%C5%9Bmian
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35301#--ka
 gutenberg_issued: '2011-02-17'
 gutenberg_type: Text
 identifiers:
